@@ -1,2 +1,2 @@
 # VoellmyClaw
-Public repo for source coude for VoellmyClaw model
+Public repo for source code for VoellmyClaw model
